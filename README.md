@@ -65,7 +65,7 @@
       <a href="#">🔗 View Repo</a>
     </td>
     <td width="50%">
-      <h3>🔹 Project Four</h3>
+      <h3>🔹 Hostel Management</h3>
       <p>One-line description of what it does and the problem it solves.</p>
       <p><b>Stack:</b> Full-Stack</p>
       <a href="https://github.com/Mowlieswaran-G/hostel">🔗 View Repo</a>

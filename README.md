@@ -9,11 +9,16 @@
 
 ### 🚀 About Me
 
+<img align="right" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding gif" />
+
 - 🎓 Pre-final year student, **Artificial Intelligence & Data Science**
 - 💻 Full-Stack Developer — comfortable across frontend, backend, and databases
 - 🌱 Currently deepening my skills in AI/ML and scalable web architecture
 - 🤝 Open to open-source contributions, internships, and collaborative projects
 - ⚡ Fun fact: I enjoy turning ideas into working products end-to-end
+- 📫 Reach me anytime — I usually reply fast!
+
+<br clear="both">
 
 ---
 
@@ -85,6 +90,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mowlieswaran&theme=tokyo-night&hide_border=true" width="90%" />
 </p>
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mowlieswaran&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
 ---
 
 ### 🤝 Connect with Me
@@ -99,3 +110,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mowlieswaran&style=flat-square&color=2E9EF7" alt="Profile views" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
